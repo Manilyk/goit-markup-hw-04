@@ -162,7 +162,7 @@ color: var(--ocean);
  /*-----hero-----*/
 .hero {
  background: var(--navy-blue);
- max-width: 1420px;
+ max-width: 1440px;
 background-color: var(--navy-blue);
 background-image: linear-gradient(var(--grey), var(--grey)),
 url(../images/people-office1.jpg);
